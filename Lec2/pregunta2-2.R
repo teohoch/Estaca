@@ -1,4 +1,4 @@
-repeats <- 10000
+repeats <- 1000
 
 DardosDistancia <-runif(repeats,5,11)
 hitmiss <- c(0,1,1,1,1,1,1,1,1,1)

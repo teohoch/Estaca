@@ -1,7 +1,7 @@
 
 
 gene <- c(0,0,0,1)
-nsimulations <- 500
+nsimulations <- 5000
 sick <- c()
 babys <-1500
 expected_babys <- babys/4

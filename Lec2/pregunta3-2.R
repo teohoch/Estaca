@@ -25,4 +25,5 @@ plot(1:nsimulations,prob_success,
      xlab = "Numero de Simulaciones",
      ylab = "Probabilidad de exito",
      main = "Probabilidad de exito con 500 camas y 2000 niños")
+abline(h=0.5,col='red',lwd=2)
 
